@@ -15,25 +15,26 @@
 <br />
 
 ### Languages and Tools
+
+# App Developement:
 <img align="left" alt= "Java" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt= "HTML5" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt= "SQL" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt= "C#" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt= "Android" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"/>
 <img align="left" alt= "C" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt= "CSS" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt= "Docker" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt= "Git" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt= "Javascript" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt= "C#" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt= "SQL" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt= "PostgreSql" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+# Web developement:
+<img align="left" alt= "HTML5" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt= "CSS" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt= "Javascript" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt= "React" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt= "Threejs" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"/>
 
-
-
-
-
-
+# Others:
+<img align="left" alt= "Android" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"/>
+<img align="left" alt= "Docker" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt= "Git" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt= "Unity" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
 
 <br />
 <br />
