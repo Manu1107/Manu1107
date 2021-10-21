@@ -37,6 +37,7 @@
 <img align="left" alt= "Docker" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt= "Git" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt= "Unity" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"/>
+<img align="left" alt= "Blender" width="26px" src = "https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"/>
 
 <br />
 <br />
