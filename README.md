@@ -45,7 +45,7 @@
 
 <img align="left" alt="Manuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manu1107&show_icons=true&hide_border=true" />
 
-<img align="left" alt="Manuel's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu1107" />
+<img align="left" alt="Manuel's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu1107&langs_count=8" />
 
 
 
