@@ -15,11 +15,11 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt= "" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
-[<img align="left" alt= "" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
-[<img align="left" alt= "" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
-[<img align="left" alt= "" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
-[<img align="left" alt= "" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
+[<img align="left" alt= "Java" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
+[<img align="left" alt= "C" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
+[<img align="left" alt= "SQL" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
+[<img align="left" alt= "C#" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
+[<img align="left" alt= "Blender" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>]
 
 
 <br />
