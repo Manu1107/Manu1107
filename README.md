@@ -1,7 +1,7 @@
 ### Hi there, I'm Manuel - [website] 👋
 
 ## I'm an entusiast guy from Italy, with a lot of passion for Coding
-- 📱 I'm currently working on Android applications and my Portfolio [website]! 📄 
+- 📱 I'm currently working on Android applications, Unity Games and my Portfolio [website]! 📄 
 - 🌱 I'm currently learning everything 😂
 - 👯 I'm looking to collaborate with other devs 👯
 - 🎼 Fun Fact: I love to play guitar, sing and model 3D stuff with Blender 🌐
