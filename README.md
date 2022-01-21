@@ -29,7 +29,7 @@
 <img align="left" alt= "CSS" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <img align="left" alt= "Javascript" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt= "React" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt= "Threejs" width="26px" src = "https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png"/>
+<img align="left" alt= "Threejs" width="26px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"/>
 <br />
 
 #### Others:
