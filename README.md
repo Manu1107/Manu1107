@@ -48,30 +48,6 @@
 
 <img align="left" alt="Manuel's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu1107&langs_count=8" />
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/manuel_carbone rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-e8c471d2-4465-4ce6-9f18-2f8c752abab4' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >manuel_carbone</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hi!
-I'm seasoned programmer with a rich background in the tech industry. I bring a wealth of experience and a proven track record of success in various aspects of software development and design.
-With years of experience in programming, I have honed my skills in writing clean, efficient, and reliable code. My experience in large corporations has equipped me with the unique skill set required for complex software integration projects. 
-Your satisfaction is my top priority. I work closely with my clients to ensure their needs are met and their expectations are exceeded.
-Let's Collaborate!
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-e8c471d2-4465-4ce6-9f18-2f8c752abab4' src='https://widgets.fiverr.com/api/v1/seller/manuel_carbone?widget_id=e8c471d2-4465-4ce6-9f18-2f8c752abab4' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-
-
-
 [website]: https://manuel-carbone-portfolio.vercel.app/
 [twitter]: https://twitter.com/ManuelCarbone
 [instagram]: https://www.instagram.com/manuel_carbone95/
